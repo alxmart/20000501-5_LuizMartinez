@@ -43,7 +43,6 @@
     if ($valor == "home") {require_once "pages/home.php";}
     if ($valor == "quemsomos") {require_once "pages/quemsomos.php";}
     if ($valor == "contato") {require_once "pages/contato.php";}
-    //if ($valor == "localizacao") {require_once "pages/contato.php";}
 
   ?>  
 
