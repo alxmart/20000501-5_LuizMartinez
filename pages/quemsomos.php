@@ -25,7 +25,7 @@
 		<ul>
       <li> <a href="../pages/home.php?p=home">Home </a></li>
 			<li> <a href="../pages/contato.php?p=contato">Contato</a></li>
-			<li> <a href="../pages/localizacao.php?p=localizacao">Localização</a></li>
+			<li> <a href="../pages/contato.php?p=contato">Localização</a></li>
 
       
 		</ul>
@@ -51,7 +51,6 @@
 
     if ($valor == "home") {require_once "pages/home.php";}
     if ($valor == "contato") {require_once "pages/contato.php";}
-    if ($valor == "localizacao") {require_once "pages/contato.php";}
 
   ?>  
 
