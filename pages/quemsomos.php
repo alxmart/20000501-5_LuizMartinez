@@ -13,7 +13,7 @@
     <table border="3" bgcolor="pink" width="100%">
       <tr>
           <td align="center">
-                  <img src="./images/luizao-doces-caseiros.png" alt="Banner da Empresa" height="250px">
+                  <img src="../images/luizao-doces-caseiros.png" alt="Banner da Empresa" height="250px">
           </td>
       </tr>
     </table>
@@ -23,9 +23,9 @@
    
   <nav>  
 		<ul>
-      <li> <a href="./pages/home.php?p=home">Home </a></li>
-			<li> <a href="./pages/contato.php?p=contato">Contato</a></li>
-			<li> <a href="./pages/localizacao.php?p=localizacao">Localização</a></li>
+      <li> <a href="../pages/home.php?p=home">Home </a></li>
+			<li> <a href="../pages/contato.php?p=contato">Contato</a></li>
+			<li> <a href="../pages/localizacao.php?p=localizacao">Localização</a></li>
 
       
 		</ul>
