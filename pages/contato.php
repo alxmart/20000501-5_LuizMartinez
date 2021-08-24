@@ -12,9 +12,9 @@
   <header>
     <table border="3" bgcolor="orange" width="100%">
       <tr>
-          <td align="center">
-                  <img src="../images/luizao-doces-caseiros.png" alt="Banner da Empresa" height="150px">
-          </td>
+        <td align="center">
+          <img src="../images/luizao-doces-caseiros.png" alt="Banner da Empresa" height="150px">
+        </td>
       </tr>
     </table>
   </header>
