@@ -1,0 +1,41 @@
+body {
+  color: black;
+  font-weight: bold;
+  background-color: rgb(253, 171, 64);
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  margin-left: 5px;
+  width: 100%;
+}
+
+th {
+  border: 2px solid black;
+  text-align: center;
+  padding: 20px;
+  background-color: lightskyblue;
+}
+
+tr, td {
+  border: 2px solid black;
+  text-align: center;
+  padding: 8px;
+  background-color: lightgoldenrodyellow;
+}
+
+td:nth-child(1){
+  background-color: rgb(230, 76, 76);
+}
+
+h1{
+  padding-top: 30px;
+  font-family:sans-serif;
+  font-size: 28px;
+  text-align: center;
+  text-decoration: underline;
+  color: black;
+  margin-left: 5px;
+  padding-bottom: 30px;
+}
