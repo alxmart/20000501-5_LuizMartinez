@@ -1,0 +1,43 @@
+body {
+  padding:0px;
+	margin:0px;
+  background-color: rgb(252, 214, 133); 
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+}
+
+nav ul {
+  padding:0px;
+  margin:0px;
+  float:none; 
+  width: 100%;
+  background-color: rgb(252, 214, 133); 
+  list-style:none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+  position:absolute;
+  bottom:0;
+  width:100%;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(212, 225, 233);
+}
+
+#cred {
+  background-color: silver;
+}
+
+nav ul li a {
+  padding: 4px 20px;
+  background-color:blue;
+  color:  white;
+  text-decoration: none;
+  border-bottom:3px solid lightgray;
+}
+ 
+
