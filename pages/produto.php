@@ -66,9 +66,7 @@
       <td> <?php echo $resultado["Doce"] ?> </td>
 
       <td> <?php echo $resultado["Quantidademinima"] ?> </td>
-
-      <!-- <td> <?php echo $resultado["Valor"] ?> </td> -->
-
+      
       <td> <?php echo 'R$' . ' ' .  number_format($resultado["Valor"], 2, ",", ".") ?> </td>
 
       <td> <?php echo $resultado["Prazoproducaodias"] ?> </td>
