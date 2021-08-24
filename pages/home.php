@@ -14,7 +14,7 @@
       <tr>
           <td align="center">
                   <img src="../images/luizao-doces-caseiros.png" alt="Banner da Empresa"
-                   height="150px">
+                   height="250px">
           </td>
       </tr>
     </table>
